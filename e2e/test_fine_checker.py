@@ -35,5 +35,8 @@ class TestFineChecker(unittest.TestCase):
         expect(result).to_have_text("Your fine is $3.00")
 
 
+
+
+
 if __name__ == "__main__":
     unittest.main()
